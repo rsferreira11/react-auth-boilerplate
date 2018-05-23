@@ -46,3 +46,10 @@ This project is made for you!
 2. `npm start`
 
 Simple as that.
+
+## Dependencies not included in "create-react-app"
+
+- react-redux
+- redux
+- react-router-dom
+- redux-thunk
