@@ -1,6 +1,7 @@
 # React 16 Auth boilerplate
 
 Tired of always starting projects from the scratch?
+
 Do you need a fast working react application with mobile support for your hackathon demo?
 
 This project is made for you!
@@ -23,7 +24,9 @@ This project is made for you!
 - Server-side rendering support
 
 ## How to start
-1. npm install
-2. npm start
+
+1. `npm install`
+
+2. `npm start`
 
 Simple as that.
