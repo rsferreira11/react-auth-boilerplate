@@ -1,4 +1,4 @@
-# React 16 Auth boilerplate
+# [WIP] React 16 Auth boilerplate 
 
 Tired of always starting projects from the scratch?
 
